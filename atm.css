@@ -1,0 +1,10 @@
+.mensaje-exitoso{
+	background: green;
+	color: white;
+	width: 250px;
+}
+.mensaje-aviso{
+	background: red;
+	color: white;
+	width: 250px;	
+}
